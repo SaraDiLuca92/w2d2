@@ -68,5 +68,5 @@ let name1 = "john";
 let name2 = "John";
 let uguaglianza = name1 === name2;
 console.log(uguaglianza);
-name2.toLowerCase();
-console.log(uguaglianza);
+let diff=name1===name2.toLowerCase();
+console.log(diff);

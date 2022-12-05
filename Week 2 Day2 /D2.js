@@ -14,7 +14,7 @@ REGOLE
 /* Premettendo che le variabili sono contenitori per dati, i data type ci indicano che tipo di dati abbiamo all'interno della variabile:
 I principali data type, ossia tipi di variabili sono:
 Numerico: quando la variabile ha valore numerico. Es. let numero=10.
-Stringa: quando la variabile ha valore alfanumerico, quindi una sequenza di caratteri. Es. let nome=Sara.
+Stringa: quando la variabile ha valore alfanumerico, quindi una sequenza di caratteri. Es. let nome="Sara".
 Booleani:quando la variabile può assumere solo i valori true (vero) false (falso). Es. let altezza=true.
 Null: se non ho assegnato un valore ad una variabile che ho già dichiarato. 
 Undefined: significa indefinito, non posso usare cose che sono indefinite, quindi comparirà un avviso se le
